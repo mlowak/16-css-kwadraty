@@ -1,0 +1,17 @@
+.background {
+    background-color: #808080;
+    height: 1100px;
+    width: 500px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.kwadrat {
+    width: 100px;
+    height: 100px;
+    background: #fea500;
+    margin: 10px auto;
+}
